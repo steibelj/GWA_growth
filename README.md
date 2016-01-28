@@ -11,3 +11,7 @@ Input files are:
 
 
 Please follow the instruction in Manual_MSU_pigs_traits.pdf
+
+If you use this code or data, please cite: 
+
+Gualdron et al (2016). Refining genome-wide association for growth and fat deposition traits in an F2 pig population. Under review.
