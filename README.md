@@ -7,10 +7,8 @@ This is a set of R scripts and input files.
 The Script is Functions_codes_traits.R
 
 
-Input files are:\
-
+Input files are:
 freq_geno_G_Z_pigMSU.traits.Rdata
-
 pigMSU_traits.Rdata
 
 Please follow the instruction in Manual_MSU_pigs_traits.pdf
